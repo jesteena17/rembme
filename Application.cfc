@@ -20,8 +20,7 @@
 		name="OnApplicationStart"
 		access="public"
 		returntype="boolean"
-		output="false"
-		hint="I run when the application boots up. If I return false, the application initialization will hault.">
+		output="false">
 
 	
 		<cfset APPLICATION.EncryptionKey = "S3xy8run3tt3s" />

@@ -10,10 +10,7 @@
 	</h1>
 
 	<p>
-		Welcome to the "Remember Me" login demo application.
-		If you are seeing this page, then you have successfully
-		logged into the system (or were logged in automatically
-		using your cookies).
+	
 	</p>
 
 	<p>
